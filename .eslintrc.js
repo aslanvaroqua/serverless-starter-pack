@@ -15,6 +15,9 @@ module.exports = {
         "TEST_ENV": true,
         "TOKEN_VERSION": true,
     },
+    "parserOptions": {
+        "sourceType": "module"
+    },
     "rules": {
         "no-unused-vars": "warn",
         "max-nested-callbacks": "off",
