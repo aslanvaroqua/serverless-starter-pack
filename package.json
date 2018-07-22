@@ -23,6 +23,7 @@
     "eslint": "5.2.0",
     "eslint-config-google": "0.9.1",
     "jest": "^21.2.1",
+    "serverless-eslint-plugin": "0.1.4",
     "serverless-offline": "3.25.6",
     "serverless-webpack": "^5.1.0",
     "webpack": "4.16.1",
